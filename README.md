@@ -152,18 +152,3 @@ This system provides a basic but effective solution for women safety by combinin
 Machine Learning
 Data Visualization
 Web Development
-🙌 Author
-
-Raj Pandey
-B.Tech CSE (Data Science)
-
-⭐ Note
-
-This project is for educational purposes only.
-
-
----
-
-# ✅ What to do now
-
-1. Create file in your project:
